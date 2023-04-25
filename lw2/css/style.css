@@ -1,0 +1,60 @@
+body {
+    margin: 0%;
+    border: 250px;
+  }
+  
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: border-box;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin: 0;
+  }
+  
+  .box {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0;
+  }
+
+  
+
+
+/*header*/
+  .header__esc {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+
+    color: #FFFFFF;
+    padding-top: 20px;
+
+  }
+
+  .header {
+      background: url("../images/IMAGEfirst.png");
+      height: 500px;
+  }
+
+  /*nav*/
+  .nav__link {
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    
+   
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    
+  }
